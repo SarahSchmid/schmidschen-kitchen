@@ -1,3 +1,4 @@
+[Back to all recipes](../../README.md)
 # Eierlikörkuchen (German Eggnog Cake)
 
 ### Ingredients
