@@ -14,7 +14,7 @@ They're coming!
 
 ### Doughy Goodness
 #### Sweet
-* Eierlikörkuchen (German Eggnog Cake)
+* [Eierlikörkuchen (German Eggnog Cake)](./recipes/doughyGoodness/germanEggnogCake.md)
 * Carrot Cake with Creamcheese frosting
 * Germknödel (Yeast dumpling)
 #### Savory
